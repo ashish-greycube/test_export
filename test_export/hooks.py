@@ -9,7 +9,7 @@ app_description = "Test field export"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "admin@greycube.in"
-app_license = "MIT"
+app_license = "MIT2"
 
 # Includes in <head>
 # ------------------
